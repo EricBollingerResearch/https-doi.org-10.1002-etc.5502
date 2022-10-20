@@ -1,0 +1,4 @@
+IMPORTANT NOTES
+
+1. Column containing Thiacloprid levels is either called "Thia" or "Treatment" (A,B,C represent 0, 0.75 and 5 ug/L, respectively)
+2. "ConsumerFile.txt" contains the column "Group" and has to be imported group-wise as .csv for mixing models (A,B,C,D,E,F represent "Leaf - 0 ug/L", "Leaf - 0.75 ug/L", "Baetis - 0 ug/L", "Baetis - 0.75 ug/L", "Both - 0 ug/L", "Both - 0.75 ug/L", respectively)
